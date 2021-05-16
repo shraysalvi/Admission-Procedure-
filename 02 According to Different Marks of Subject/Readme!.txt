@@ -8,4 +8,5 @@ If their marks in other subject is appropriate for other priority department the
 The number of student required for every deparment is given by user.
 The only students allot in department.
 
-The program is also available in txt file.
+For more details visit: https://hyperskill.org/projects/163
+The project or program are done under the guidence of Hyperskill.org.
