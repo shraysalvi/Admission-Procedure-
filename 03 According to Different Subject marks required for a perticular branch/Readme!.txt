@@ -17,4 +17,5 @@ The number of student required for every deparment is given by user.
 The only students allots in departments.
 This time student list with thier mean score are out in file format with name it as %department_name%.txt, for example, physics.txt.
 
-The program is also available in txt file.
+For more details visit: https://hyperskill.org/projects/163
+This program or project was done under the guidence of Hyperskill.org.
