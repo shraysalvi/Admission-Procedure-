@@ -4,3 +4,5 @@ Second Priority for department in column 5, Third Priority for department in col
 
 The Program 01 Admission is used to work with this file.
 Allot the department to the student according to their highest marks.
+
+For more details visit: https://hyperskill.org/projects/163
