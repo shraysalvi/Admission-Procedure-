@@ -22,7 +22,8 @@ Column 9: Third Priority Department
 - Users input the number of students required for each department.
 - Only students meeting departmental criteria are allotted positions.
 
-Output Format:
+#### Output Format
+
 Students meeting departmental criteria are listed in separate files named after each department (e.g., physics.txt).
 Each file contains student names along with their mean scores.
 This program streamlines the admission process, ensuring that students are assigned to departments based on their academic performance and departmental priorities, **resulting in efficient and fair admissions**.
