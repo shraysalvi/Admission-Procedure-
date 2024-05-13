@@ -4,15 +4,15 @@ The Program is designed to streamline the admission process based on student per
 
 #### File Structure
 
-Column 1: Student Name
-Column 2: Student Surname
-Column 3: Physics Marks
-Column 4: Chemistry Marks
-Column 5: Mathematics Marks
-Column 6: Computer Marks
-Column 7: First Priority Department
-Column 8: Second Priority Department
-Column 9: Third Priority Department
+- Column 1: Student Name
+- Column 2: Student Surname
+- Column 3: Physics Marks
+- Column 4: Chemistry Marks
+- Column 5: Mathematics Marks
+- Column 6: Computer Marks
+- Column 7: First Priority Department
+- Column 8: Second Priority Department
+- Column 9: Third Priority Department
 
 #### Functionality
 
